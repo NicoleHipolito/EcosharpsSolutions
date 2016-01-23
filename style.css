@@ -1,7 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
   a:link{
-  	color: #000000;
+  	color: #58563a;
+  }
+  a:visited{
+  	color: #60684e;
   }
   #main{
     margin-bottom: 80px;
@@ -14,27 +17,26 @@
   	background-color: #f0f7f7;
   }
   .title-color{
-  	color: #00ff99;
+  	color: #a0ae83;
   }
   #title {
-  	background-color: #330014;
-    color: #e2efef;
+  	background-color: white;
     text-align:center;
   	width: 100%;
-  	font-family: 'Kaushan Script', cursive;
-  	font-weight: bold;
+  	font-family: 'Spinnaker', sans-serif;
   }
   #navigation {
 	border-style: outset;
 	border-width: thin;
 	line-height: 30px;
 	background-color: #FFFFFF;
+	text-align: center;
 	height: 5%;
 	width: 90%;
 	padding: 10px;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	font-family: 'Josefin Slab', serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-style: italic;
 	font-size:14px;
 	font-weight: 600;
@@ -45,11 +47,12 @@
 	width:90%;
 	height: 85%;
 	background-color: #FFFFFF;
-	font-family: 'Josefin Slab', serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	padding: 10px;
    }
    #paragraph{
-   	font-size: 12px;
+   	font-size: 20px;
+   	font-family: 'Roboto Condensed', sans-serif;
    }
    #footer {
 	border-style: outset;
@@ -61,5 +64,5 @@
 	text-align:center;
 	width:90%;
 	height: 10%;
-	font-family: 'Josefin Slab', serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	}
