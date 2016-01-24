@@ -7,7 +7,7 @@
   	color: #60684e;
   }
   #main{
-    margin-bottom: 80px;
+    margin-bottom: 40px;
     margin-right: 50px;
     margin-left: 50px;
 	padding-right: 30px;
@@ -20,17 +20,18 @@
   	color: #70AD47;
   }
   #logo {
-  	width:90px; 
+  	width:52px; 
   	height:auto; 
-  	padding-left:15px; 
-  	padding-right:5px; 
-  	padding-top:10px; 
-  	padding-bottom:10px;
+  	padding-left: 15px; 
+  	padding-right: 5px; 
+  	padding-top: 5px;
+
   }
   #title {
   	background-color: white;
     text-align:left;
   	width: 100%;
+  	height: auto;
   	font-family: 'Spinnaker', sans-serif;
   }
   #navigation {
@@ -66,6 +67,7 @@
 	border-style: outset;
 	border-width: thin;
 	margin-top: 15px;
+	padding-bottom: 10px;
 	background-color:#327E5A;
 	color:white;
 	clear:both;
