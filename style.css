@@ -19,6 +19,14 @@
   .title-color{
   	color: #70AD47;
   }
+  #logo {
+  	width:90px; 
+  	height:auto; 
+  	padding-left:15px; 
+  	padding-right:5px; 
+  	padding-top:10px; 
+  	padding-bottom:10px;
+  }
   #title {
   	background-color: white;
     text-align:left;
@@ -58,7 +66,7 @@
 	border-style: outset;
 	border-width: thin;
 	margin-top: 15px;
-	background-color:black;
+	background-color:#327E5A;
 	color:white;
 	clear:both;
 	text-align:center;
